@@ -12,6 +12,7 @@ Database: MongoDB
 
 Backend Responsibilities 
 The backend team is responsible for:
+
 Accepting job postings provided by users
 Securely storing user resumes, skill information, and other profile data
 Parsing resumes and job listings into information that can be analyzed
