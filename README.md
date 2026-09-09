@@ -1,6 +1,7 @@
 Resume Assistant – Backend Team 
 
-General Overview
+General Overview:
+
 The backend for the Resume Assistant is responsible for processing user information, managing resume and job-posting data, and providing the functionality needed to analyze resumes against job listings.
 The backend is built using Python, Django, and MongoDB.
 
